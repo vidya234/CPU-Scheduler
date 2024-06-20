@@ -31,8 +31,8 @@ This project involves implementing a CPU scheduler that uses various scheduling 
 
 ### Classes and Data Structures
 
-- **Process Class: ** Represents a process with attributes such as process ID, arrival time, burst time, remaining time, priority, start time, finish time, waiting time, and turnaround time.
-- **SchedulingResult Struct: ** Contains a vector of Process objects representing the scheduled processes and the calculated average waiting time and average turnaround time.
+-  Process Class:  Represents a process with attributes such as process ID, arrival time, burst time, remaining time, priority, start time, finish time, waiting time, and turnaround time.
+-  SchedulingResult Struct:   Contains a vector of Process objects representing the scheduled processes and the calculated average waiting time and average turnaround time.
 
 ### Algorithms Implementation
 Please find the revised text below:
