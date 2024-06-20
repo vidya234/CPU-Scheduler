@@ -1,6 +1,5 @@
 
-# CPU Scheduler using Qt
-
+# CPU Scheduler 
 ## Project Description
 
 This project involves implementing a CPU scheduler that uses various scheduling algorithms, such as First Come, First Serve (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF), Round Robin (RR), Priority Scheduling (Preemptive), and Priority Scheduling (Non-Preemptive). The scheduler simulates the execution of processes and calculates performance metrics, such as average waiting time and average turnaround time. Additionally, the project includes a graphical user interface (GUI) developed using the Qt framework, allowing users to interact with the scheduler.
