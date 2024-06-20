@@ -46,10 +46,10 @@ Please find the revised text below:
 
 ### GUI Implementation
 
-- **MainWindow Class: ** Implements the application's main window with buttons for adding processes, selecting scheduling algorithms, and displaying the scheduling results.
-- **ProcessTable Widget: ** Displays the list of processes with their attributes.
-- **OutputText Widget: ** Displays the output, including the scheduling results and performance metrics.
-- **ComparisonChart Widget: ** Displays a chart comparing the performance of different scheduling algorithms.
+-  MainWindow Class:   Implements the application's main window with buttons for adding processes, selecting scheduling algorithms, and displaying the scheduling results.
+-  ProcessTable Widget:   Displays the list of processes with their attributes.
+-  OutputText Widget:   Displays the output, including the scheduling results and performance metrics.
+-  ComparisonChart Widget:  Displays a chart comparing the performance of different scheduling algorithms.
 
 ## Learning Takeaways
 - Proficiency in using the Qt framework for GUI development.
